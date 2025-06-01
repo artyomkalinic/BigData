@@ -1,0 +1,1 @@
+Осуществить запуск скрипта run.sh, после чего можно посмотреть, что получилось, по команде ```docker exec -it bigdataspark-clickhouse-1   clickhouse-client --query "SELECT * FROM <table_name> LIMIT 10" ```
